@@ -2,7 +2,7 @@
 - 👀 I’m interested in environmental technologies, electrochemistry, and data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on making interesting programs
-- 📫 How to reach me: qingdian.shu@wetsus.nl
+- 📫 How to reach me: qingdian.shu@gmail.com
 
 <!---
 Qingdian-Shu/Qingdian-Shu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
